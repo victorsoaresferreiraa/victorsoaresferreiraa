@@ -1,4 +1,11 @@
-### Hi there 👋
+Sou formado em Tecnologia em Gestão de Ti, estou indo para a minha segunda graduação, agora indo para Engenharia de Software.
+
+Atualmente tenho estudado muito sobre programação, tenho feito alguns projetos e adquirindo muito conhecimento e testando diversas ferramentas e projetos 
+
+Sou apaixonado por Tecnologia e tudo que ela pode agregar em nossas vidas, nos auxiliando no dia a dia, construindo pontes entre maquinas e pessoas 
+
+Contato - 11 973498160
+Email - Victorsoaresferreira09@gmail.com
 
 <!--
 **victorsoaresferreiraa/victorsoaresferreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
